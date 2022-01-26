@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KOxyNwWeK8ACfwLqktmKO46mvcFu/A7tR8xg5ZBOC7m5CkYwSoJCraICQcYdIJFCvAKZ8CGJR+vq4PO8dkJJWw==",
+  "dgSpecHash": "o8kio+o7KxhNiHEm97AmRddkHmZGRuEE2g8zO8te/HgqESP3+IajfyOLLKH6eHFpUX8XT3W2GYNEpDKxrVmJrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmcbr\\source\\repos\\CSVReader\\CSVReader\\CSVReader.vbproj",
+  "projectFilePath": "C:\\Users\\cmcbr\\source\\repos\\SeeClearReader\\CSVReader\\CSVReader.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmcbr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\cmcbr\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

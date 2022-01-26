@@ -96,4 +96,6 @@ Public Class CSVReader
 
         Return setToken(newToken, newData)
     End Function
+
+
 End Class
