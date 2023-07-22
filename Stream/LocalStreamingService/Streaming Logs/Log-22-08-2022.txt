@@ -1,0 +1,11 @@
+[INFO][19:01] :: Registered Thumbnail: Harry Potter: Half Blood Prince - ad3adced-08a0-470b-bc3d-4133a2547209 - [-1:C:\Users\cmcbr\OneDrive\Pictures\Screenshot 2022-07-05 234530.png]
+[INFO][19:02] :: HasRows: True
+[INFO][19:02] :: Registered Film: Harry Potter: Half Blood Prince - 4bc60ea3-7f44-4767-b3f5-91800e4271b9 - [1:G:\Films\Harry Potter - The Half Blood Prince.mp4]
+[INFO][19:02] :: Film Index: 1
+[INFO][19:02] :: Token: 4bc60ea3-7f44-4767-b3f5-91800e4271b9
+[INFO][19:09] :: HasRows: True
+[INFO][19:09] :: Registered Film: The Death of Stalin - 6a19d259-d7fd-433b-815e-f24d0510fe3a - [2:G:\Films\The Death of Stalin.mp4]
+[INFO][19:09] :: Film Index: 2
+[INFO][19:09] :: Token: 6a19d259-d7fd-433b-815e-f24d0510fe3a
+[ERROR][19:10] :: FilmStreamingController - RequestAll - Value cannot be null. (Parameter 'value')
+[ERROR][19:10] :: FilmStreamingController - RequestAll - Value cannot be null. (Parameter 'value')

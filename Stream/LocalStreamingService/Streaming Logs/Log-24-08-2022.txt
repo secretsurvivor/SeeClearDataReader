@@ -1,0 +1,13 @@
+[INFO][00:25] :: Registered Thumbnail: Harry Potter: Half Blood Prince - 72d7f947-26ff-4741-95eb-761b585f2828 - [-1:C:\Users\cmcbr\OneDrive\Pictures\HarryPotter_HalfBloodPrince.jpg]
+[ERROR][00:25] :: FilmStreamingController - RequestAll - Value cannot be null. (Parameter 'value')
+[INFO][00:31] :: Registered Thumbnail: Harry Potter: Half Blood Prince - 1051d878-5b78-4dee-a0ef-e5c441fc199f - [-1:C:\Users\cmcbr\OneDrive\Pictures\HarryPotter_HalfBloodPrince.jpg]
+[ERROR][00:31] :: FilmStreamingController - RequestAll - (Google.Protobuf) Value cannot be null. (Parameter 'value')
+[INFO][00:32] :: Registered Thumbnail: Harry Potter: Half Blood Prince - e07910b2-b576-4706-a48e-ba98802cd655 - [-1:C:\Users\cmcbr\OneDrive\Pictures\HarryPotter_HalfBloodPrince.jpg]
+[ERROR][00:32] :: FilmStreamingController - RequestAll - (Google.Protobuf:   at Google.Protobuf.ProtoPreconditions.CheckNotNull[T](T value, String name)
+   at LocalStreamingService.Objects.Protobuf.FilmMessage.set_Metatitle(String value) in C:\Users\cmcbr\source\repos\LocalStreamingService\LocalStreamingService\Objects\Protobuf\VideoDataMessage.cs:line 484
+   at LocalStreamingService.Objects.DataObjects.Film.WriteToMessage(FilmMessage message) in C:\Users\cmcbr\source\repos\LocalStreamingService\LocalStreamingService\Objects\DataObjects\Film.cs:line 106
+   at LocalStreamingService.Controllers.FilmStreamingController.RequestAll() in C:\Users\cmcbr\source\repos\LocalStreamingService\LocalStreamingService\Controllers\FilmStreamingController.cs:line 96) Value cannot be null. (Parameter 'value')
+[INFO][00:34] :: Registered Thumbnail: Harry Potter: Half Blood Prince - e4e08c89-939e-4c37-9e39-7faaa0ab6b08 - [-1:C:\Users\cmcbr\OneDrive\Pictures\HarryPotter_HalfBloodPrince.jpg]
+[INFO][00:34] :: Registered Thumbnail: The Death of Stalin - 8fda2d40-cc0e-40ad-8a98-49f9b950a093 - [-2:C:\Users\cmcbr\OneDrive\Pictures\p14589654_p_v12_ak.jpg]
+[INFO][09:20] :: Registered Thumbnail: Harry Potter: Half Blood Prince - 912e14d6-f211-436a-ad24-b5dd3731a1ed - [-1:C:\Users\cmcbr\OneDrive\Pictures\HarryPotter_HalfBloodPrince.jpg]
+[INFO][09:20] :: Registered Thumbnail: The Death of Stalin - d1f624d1-ac1a-4887-95bf-a2a847a7bd41 - [-2:C:\Users\cmcbr\OneDrive\Pictures\p14589654_p_v12_ak.jpg]
